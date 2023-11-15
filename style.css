@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: serif;
 }
 .container{
     width: 100%;
@@ -23,13 +23,11 @@
     width: 160px;
     height: 160px;
     position: relative;
-    /* background: #ff004f; */
 }
 .outer{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    /* border: 1px solid #ff004f; */
     box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.7), -6px -6px 10px -1px rgba(255, 255, 255, 0.15);
     padding: 20px;
 }
